@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cherif.benham@gmail.com
+	name = cherif benham
